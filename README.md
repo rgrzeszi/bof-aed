@@ -46,6 +46,7 @@ Getting started
 2. Use the multi_channel_experiments or the single_channel_experiment sample file to include our code in your experiments
 
 For running the sample experiments:
+
 1. Download the FINCA "Multi-channel acoustic event dataset" for multi-channel experiments
    or the FINCA "Acoustic event dataset" for single-channel experiments from
    http://patrec.cs.tu-dortmund.de/cms/en/home/Resources/index.html
