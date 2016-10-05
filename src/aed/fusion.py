@@ -1,6 +1,6 @@
 '''
-Copyright (C) 2016 Julian Kuerby. All rights reserved.
-This file made available under the terms of the BSD license (see the COPYING file).
+Copyright (C) 2016 Julian Kuerby. 
+This file made available under the terms of the MIT license (see the LICENSE file).
 For any publication please cite the corresponding paper (see the README file).
 '''
 import numpy as np
