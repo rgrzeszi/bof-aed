@@ -37,7 +37,7 @@ The software was tested on Debian 64bit.
 
 Getting started
 ===============
-1. Either add the src folders to your PYTHONPATH 
+1. Either add the src folder to your PYTHONPATH 
    or use a Python IDE of your liking (e.g. Eclipse and pydev)
 3. Use the multi_channel_experiments or the single_channel_experiment sample file to include our code in your experiments
 
